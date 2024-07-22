@@ -1,1 +1,2 @@
 # DST_Accomplishments_korean_translation
+update korean translation
