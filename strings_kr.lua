@@ -209,7 +209,7 @@ ACCOMPLISHMENTS =
         WARG_TITLE = "큰 멍멍이",
         WARG_DESC = "바르그 사냥",
 
-        GINGERBREADWARG_TITLE = "씁쓸달콤한 맛",
+        GINGERBREADWARG_TITLE = "달콤씁쓸한 맛",
         GINGERBREADWARG_DESC = "생강과자 바르그 사냥",
 
         SPAT_TITLE = "단조 작업",
